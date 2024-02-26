@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box{
+    background-color: #202123;
+    width: 85%;
+    height: 100vh;
+}
+img{
+    width: 70px;
+    height: 80px;
+    align-items: center;
+   /* float: left; */
+}
+h5{
+    padding-top: 10px;
+    padding-left: 5px;
+    color: rgb(179, 173, 173);
+}
+.h{padding-left: 19px;
+    padding-top: 10px;
+
+}
+p{
+    position: absolute;
+    top: 75px;
+    left: 60px;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.v{
+    padding-left:19px;
+    padding-top: 25px;
+
+}
+p2{
+    position: absolute;
+    /* top: ; */
+    left: 40px;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left:19px;
+}
+p3{
+    position: absolute;
+    /* top: ; */
+    left: 54px;
+    color: white;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 5px;
+}
+
+.k{
+    
+    padding-left:19px;
+    padding-top: 20px;
+
+}
+.btn{
+    background-color: #202123;
+    border-color: white;
+    margin-top: 10px;
+    margin-left: 10px;
+    color: white;
+  width: 170px;
+  height: 30px;
+}
+.btn1{
+    margin-left: 10px;
+    height: 30px;
+    width: 30px;
+    background-color: #202123;
+    border-color: white;
+}
+hr{
+    margin-top: 281px;
+}
+.k{
+    color: white;
+}
+.E{
+     padding-top: 10px;
+    padding-bottom: 20px;
+    color: white;
+} 
+.p1{
+    position: absolute;
+    left: 100px;
+    top: 565px;
+    color: white;
+}
+.icon{
+ position: absolute;
+ left: 255px;
+ top: 565px;
+ color: white;
+}
+.box2{
+    width: 70.7%;
+    height: 100vh;
+    background-color: #696969;
+    position: absolute;
+    left: 400px;
+    top:0px;
+}
+.box3{
+    width: 50%;
+    height: 40px;
+    display: flex;
+    background-color: #202123;
+    border-radius: 8px;
+    position: absolute;
+    left: 250px;
+    top: 40px;
+}
+.box4{background-color: #696969;
+    width: 115px;
+    height: 35px;
+    border-radius: 8px;
+    position: absolute;
+    left: 2px;
+    top: 2px;
+}
+.h4{
+ color: white;
+ /* text-align: center; */
+ position: absolute;
+ top: 8px;
+ left: 19px;
+}
+.text2{
+    color: rgb(179, 173, 173);
+    position: absolute;
+    left: 340px;
+    top: 8.5px;
+}
+.text1{
+    color: rgb(179, 173, 173);
+    position: absolute;
+    left: 200px;
+    top: 8.5px;
+}
+.ic{
+    position: absolute;
+    left: 440px;
+    top: 8.5px;
+}
+.h1{
+    text-align: center;
+    padding-top: 200px;
+    color: rgb(179, 173, 173);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main{
+    display: flex;
+}
+.box5{
+    width: 350px;
+    height: 55px;
+    background-color: #646464;
+    border-color:white;
+    margin-left: 150px;
+    margin-top: 150px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+}
+.pi{ padding-left: 10px;
+    padding-top: 5px;
+    color: rgb(238, 228, 228);
+}
+.box7{
+    width: 350px;
+    height: 55px;
+    background-color: #646464;
+    border-color:white;
+    margin-left: 12px;
+    margin-top: 150px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+}
+.main1{
+    display: flex;
+}
+.box8{
+    
+    width: 350px;
+    height: 55px;
+    background-color: #646464;
+    border-color:white;
+    margin-left: 150px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+}
+.box9{
+    width: 350px;
+    height: 55px;
+    background-color: #646464;
+    border-color:white;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 1px;
+}
+ 
+ 
+ 
+ ::placeholder{
+    font-size: 1.6em;
+    color: #fdfcfc;
+    padding-left: 10px;
+ }
+ form{
+    background: transparent;
+    width: 78%;
+    border-radius: 25px;
+    position: relative;
+    margin-left: 150px;
+    margin-top: 15px;
+ }
+ input{
+    width: 88%;
+    height: 5vh;
+    border-radius: 25px;
+    border: solid;
+    padding: 8px 40px 8px 20px;
+    background: transparent;
+    border-color: white;
+    border-width: 1.5px;
+ }
+    
+ .btn5{
+border-radius: 50%;
+width: 50px;
+height: 100%;
+position: absolute;
+top: 15;
+right: 40px;
+border: none;
+background: transparent;
+ }
